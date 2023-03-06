@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>:)</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+<header>
+  <nav id="menu">
+    <ul>
+      <li><a href="/">Главная</a></li>
+      <li><a href="/about">О нас</a></li>
+      <li><a href="/contacts">Контакты</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <h1>Резюме - Атрепьев М.Ю.</h1>
+
+  <p>
+Инженер электрик - это вам не в тапки срать
+  </p>
+  <p>
+Сегодня мы не только но и вообще
+  </p>
+  <p style="color:green; font-size:40px">
+Атр - это то что надо
+  </p>
+
+  <section>
+    <h2>Преимущества</h2>
+
+    <ul>
+      <li>Не пьет и не ест</li>
+      <li>Много делает и не делает</li>
+      <li>Много знает о том что лучше не знать</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Компетенции</h2>
+
+    <article>
+      <h3>Необыкновенный</h3>
+      <p>да бывает и такое</p>
+      <a href="/">смотри внимательнее, а то не увидишь</a>
+    </article>
+
+    <article>
+      <h3>Серьезный</h3>
+      <p>Не буду повторяться, я два раза не повторяю</p>
+      <a href="/">Два раза не повторяю сказал</a>
+    </article>
+
+    <article>
+      <h3>Здесь вам не тут</h3>
+      <p>и не туда</p>
+      <a href="/">однако</a>
+    </article>
+  </section>
+</main>
+
+<aside>
+  <div>
+    <a href="#">Это сбоку 1</a>
+    <a href="#">должно быть сбоку 2</a>
+    <a href="#">в натуре сбоку 3</a>
+  </div>
+</aside>
+  </body>
+</html>
